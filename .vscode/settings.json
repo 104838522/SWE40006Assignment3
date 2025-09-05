@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/a2995820-d3e4-4649-9f12-9bbe9e36064e/resourceGroups/appsvc_linux_australiaeast/providers/Microsoft.Web/sites/dhkim-task3-1",
+    "appService.deploySubpath": "."
+}
